@@ -1,4 +1,4 @@
-##Inspiration
+Inspiration
 To make this project, we largely wanted to enter the maker & education tracks. As we brainstormed ideas, we talked about how all of us were in high school during the peak of the COVID-19 pandemic. While we had different experiences with quarantine, we all struggled with high school labs---some of us attempted (and failed) to do them virtually, while others couldn't do them at all. As such, we sought to code tech for good by making labs more accessible for everyone, especially experiments that require state-of-the-art equipment.
 
 What it does
